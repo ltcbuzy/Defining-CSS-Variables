@@ -1,4 +1,5 @@
 # Defining CSS Variables
+![Defining CSS Variables](https://github.com/ltcbuzy/Defining-CSS-Variables/assets/96268218/aeb0d7c6-5eae-4393-9058-a1e03daffa9b)
 CSS Variables, or custom properties, streamline web development by allowing the declaration of reusable values. Introduced in CSS3, these variables enhance flexibility and maintainability, promoting a modular styling approach. Defined in the :root pseudo-class, they offer global accessibility throughout the stylesheet. CSS Variables can be dynamically updated with JavaScript, enabling dynamic theming and responsive design. Overall, they contribute to cleaner, more efficient stylesheets, fostering a streamlined and adaptable approach to web development.
 
 In the :root pseudo-class, global CSS variables are declared. These variables can store values such as colors, font sizes, and other style properties. For example:
